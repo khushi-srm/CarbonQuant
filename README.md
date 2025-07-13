@@ -1,0 +1,1 @@
+The Carbon Emission Calculator is a simple and interactive web-based tool designed to help users estimate their carbon footprint based on daily activities. Built using HTML, CSS, and JavaScript, this app raises environmental awareness and encourages sustainable habits by calculating emissions from activities like transportation, electricity use, and lifestyle choices.
